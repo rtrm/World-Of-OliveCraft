@@ -1,0 +1,8 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/rtrm/benilla-olivecraft.git
+	branch = main
+[submodule "server"]
+	path = server
+	url = https://github.com/rtrm/core.git
+	branch = development
